@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to the Microservices Banking Accounts Production APIs"
   contactDetails:
     name: "Baddie Bandit - Product Owner"
-    email: "f5563d982044936c87c70618d25c4e822eed0cf6876c271287aa07b06bafa068c9e2524db7121173fcf4f3e0cb80f42f"
+    email: "{cipher}f5563d982044936c87c70618d25c4e822eed0cf6876c271287aa07b06bafa068c9e2524db7121173fcf4f3e0cb80f42f"
   onCallSupport:
     - (212) 555-9764
     - (976) 555-1129
