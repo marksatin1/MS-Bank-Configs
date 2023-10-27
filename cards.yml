@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to the Microservices Banking Cards APIs"
+  contactDetails:
+    name: "Mark Satin - Developer"
+    email: "mark@fakemail.com"
+  onCallSupport:
+    - (212) 555-9764
+    - (976) 555-1129
