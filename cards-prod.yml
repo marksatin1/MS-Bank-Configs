@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the Microservices Banking Cards prod APIs"
+  message: "Welcome to the Microservices Banking Cards WEBHOOK APIs"
   contactDetails:
     name: "Baddie Bandit - Product Owner"
     email: "baddie@fakemail.com"
