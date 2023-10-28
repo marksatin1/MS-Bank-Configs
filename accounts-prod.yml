@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the Microservices Banking Accounts PRODUCTION APIs"
+  message: "Welcome to the Microservices Banking Accounts prod APIs"
   contactDetails:
     name: "Baddie Bandit - Product Owner"
     email: "{cipher}f5563d982044936c87c70618d25c4e822eed0cf6876c271287aa07b06bafa068c9e2524db7121173fcf4f3e0cb80f42f"
