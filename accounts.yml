@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to the Microservices Banking Accounts APIs"
+  message: "Welcome to the Microservices Banking Accounts APIs TEST"
   contactDetails:
     name: "Mark Satin - Developer"
     email: "mark@fakemail.com"
