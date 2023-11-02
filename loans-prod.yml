@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to the Microservices Banking Loans Production APIs"
+  message: "Welcome to the Microservices Banking Loans prod APIs"
   contactDetails:
     name: "Baddie Bandit - Product Owner"
     email: "baddie@fakemail.com"
